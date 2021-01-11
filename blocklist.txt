@@ -1,0 +1,2 @@
+wp.pl
+wykop.pl
